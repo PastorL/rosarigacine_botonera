@@ -1,0 +1,22 @@
+body {
+	background-color: black;
+}
+
+.button-container {
+	width: 200px;
+	height: 200px;
+	text-align: center;
+	display: inline-block;
+}
+
+.button-image {
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	box-shadow: 0px 0px 35px #0078FF;
+}
+
+.button-text {
+	color: #0078FF;
+	font-family: Trebuchet MS;
+}
